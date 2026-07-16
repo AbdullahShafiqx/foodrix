@@ -1,4 +1,4 @@
-# Foodrix 🍔🍕🍣
+# Foodrix
 
 Foodrix is a modern, fast, and feature-rich Android application designed to elevate the food ordering experience. It combines a premium user interface with smart helper capabilities, mapping services, and a robust cart checkout process.
 
