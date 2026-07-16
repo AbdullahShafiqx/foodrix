@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154659557760",
+    "project_id": "firestorefoodrix",
+    "storage_bucket": "firestorefoodrix.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154659557760:android:63cc2ac167f4e6631c3165",
+        "android_client_info": {
+          "package_name": "com.example.foodrix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMD51RC6UJrkJXVDc_v55cyKA8nQlqEt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
