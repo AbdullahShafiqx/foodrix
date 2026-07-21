@@ -1,6 +1,6 @@
 # Foodrix
 
-Foodrix is a modern, fast, and feature-rich Android application designed to elevate the food ordering experience. It combines a premium user interface with smart helper capabilities, mapping services, and a robust cart checkout process.
+Foodrix is a modern, fast, and feature-rich Android food-ordering application that combines a polished UI with an AI-powered assistant and maps-based delivery to make ordering quick and intelligent.
 
 ---
 
@@ -18,6 +18,21 @@ Foodrix is a modern, fast, and feature-rich Android application designed to elev
 
 - `app/src/main/java/com/example/foodrix/`: Java & Kotlin source files containing layout logic, adapter lists, domain object models, and activities.
 - `app/src/main/res/`: Contains application layout resources, high-quality drawables, colors, themes, maps/lottie raw animations, and screen elements.
+
+---
+
+## 🧰 Tech Stack
+
+- Java (primary)
+- Kotlin
+- Android SDK
+- Android Studio (Koala/Ladybug or newer)
+- Jetpack Compose & XML Views
+- Google Play Services — Maps
+- Google Generative AI SDK
+- Lottie Animations
+- Firebase (authentication / backend integrations)
+- Gradle (build system)
 
 ---
 
